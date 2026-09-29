@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 320" role="img" aria-labelledby="t">
+  <title id="t">Medical masks</title>
+  <rect width="400" height="320" fill="#F5F8FA"/>
+  <ellipse cx="200" cy="294" rx="110" ry="10" fill="#D7EAF3"/>
+  <rect x="122" y="86" width="156" height="170" rx="16" fill="#174A63"/>
+  <rect x="138" y="102" width="124" height="138" rx="10" fill="#EAF6FC"/>
+  <path d="M156 150h88c8 18 8 36 0 54h-88c-8-18-8-36 0-54z" fill="#B9DFF2" stroke="#5BAED6" stroke-width="4"/>
+  <path d="M156 168h-22M244 168h22M156 186h-18M244 186h18" stroke="#174A63" stroke-width="4" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 320" role="img" aria-labelledby="t">
+  <title id="t">Hot water bag</title>
+  <rect width="400" height="320" fill="#F5F8FA"/>
+  <ellipse cx="200" cy="294" rx="100" ry="10" fill="#D7EAF3"/>
+  <rect x="118" y="96" width="164" height="160" rx="46" fill="#5BAED6"/>
+  <rect x="176" y="72" width="48" height="40" rx="10" fill="#174A63"/>
+  <rect x="186" y="62" width="28" height="18" rx="6" fill="#B9DFF2"/>
+  <path d="M150 150h100M150 178h100M150 206h72" stroke="#EAF6FC" stroke-width="6" stroke-linecap="round" opacity=".8"/>
+</svg>

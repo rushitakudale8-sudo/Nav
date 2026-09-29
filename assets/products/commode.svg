@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 320" role="img" aria-labelledby="t">
+  <title id="t">Commode chair</title>
+  <rect width="400" height="320" fill="#F5F8FA"/>
+  <ellipse cx="200" cy="294" rx="110" ry="10" fill="#D7EAF3"/>
+  <rect x="118" y="78" width="16" height="196" rx="6" fill="#174A63"/>
+  <rect x="266" y="78" width="16" height="196" rx="6" fill="#174A63"/>
+  <rect x="126" y="148" width="148" height="14" rx="5" fill="#5BAED6"/>
+  <ellipse cx="200" cy="162" rx="62" ry="28" fill="#EAF6FC" stroke="#174A63" stroke-width="8"/>
+  <ellipse cx="200" cy="162" rx="28" ry="16" fill="#F5F8FA"/>
+  <rect x="132" y="92" width="136" height="18" rx="8" fill="#174A63"/>
+  <path d="M118 108h-28v46h28" fill="none" stroke="#5BAED6" stroke-width="8" stroke-linecap="round"/>
+  <path d="M282 108h28v46h-28" fill="none" stroke="#5BAED6" stroke-width="8" stroke-linecap="round"/>
+  <rect x="108" y="262" width="36" height="12" rx="4" fill="#B9DFF2"/>
+  <rect x="256" y="262" width="36" height="12" rx="4" fill="#B9DFF2"/>
+</svg>

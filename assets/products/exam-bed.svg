@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 320" role="img" aria-labelledby="t">
+  <title id="t">Patient examination bed</title>
+  <rect width="400" height="320" fill="#F5F8FA"/>
+  <ellipse cx="200" cy="294" rx="126" ry="10" fill="#D7EAF3"/>
+  <path d="M70 168h168l62-36h36" fill="none" stroke="#174A63" stroke-width="14" stroke-linecap="round"/>
+  <rect x="78" y="132" width="156" height="36" rx="8" fill="#5BAED6"/>
+  <rect x="234" y="102" width="88" height="36" rx="8" fill="#B9DFF2" transform="rotate(-18 278 120)"/>
+  <rect x="88" y="168" width="12" height="86" rx="4" fill="#174A63"/>
+  <rect x="292" y="168" width="12" height="86" rx="4" fill="#174A63"/>
+  <rect x="186" y="168" width="12" height="72" rx="4" fill="#174A63"/>
+  <circle cx="94" cy="262" r="10" fill="#5BAED6"/>
+  <circle cx="298" cy="262" r="10" fill="#5BAED6"/>
+</svg>

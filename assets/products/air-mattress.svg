@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 320" role="img" aria-labelledby="t">
+  <title id="t">Air mattress</title>
+  <rect width="400" height="320" fill="#F5F8FA"/>
+  <ellipse cx="200" cy="294" rx="120" ry="10" fill="#D7EAF3"/>
+  <rect x="64" y="118" width="272" height="128" rx="18" fill="#174A63"/>
+  <path d="M80 142h240M80 166h240M80 190h240M80 214h240" stroke="#B9DFF2" stroke-width="10" stroke-linecap="round"/>
+  <rect x="292" y="86" width="44" height="36" rx="8" fill="#5BAED6"/>
+  <path d="M314 122v20" stroke="#5BAED6" stroke-width="6"/>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 320" role="img" aria-labelledby="t">
+  <title id="t">Bathroom and toilet aids</title>
+  <rect width="400" height="320" fill="#F5F8FA"/>
+  <ellipse cx="200" cy="294" rx="118" ry="10" fill="#D7EAF3"/>
+  <rect x="150" y="150" width="100" height="108" rx="18" fill="#174A63"/>
+  <ellipse cx="200" cy="150" rx="50" ry="20" fill="#5BAED6"/>
+  <ellipse cx="200" cy="150" rx="20" ry="10" fill="#F5F8FA"/>
+  <rect x="78" y="108" width="18" height="148" rx="8" fill="#174A63"/>
+  <rect x="78" y="108" width="72" height="16" rx="8" fill="#5BAED6"/>
+  <rect x="304" y="86" width="18" height="170" rx="8" fill="#174A63"/>
+  <rect x="268" y="86" width="54" height="16" rx="8" fill="#B9DFF2"/>
+</svg>

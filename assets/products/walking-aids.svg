@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 320" role="img" aria-labelledby="t">
+  <title id="t">Walking aids</title>
+  <rect width="400" height="320" fill="#F5F8FA"/>
+  <ellipse cx="200" cy="294" rx="118" ry="10" fill="#D7EAF3"/>
+  <path d="M92 250V118c0-12 8-20 20-20h36" fill="none" stroke="#174A63" stroke-width="10" stroke-linecap="round"/>
+  <path d="M148 250V118c0-12-8-20-20-20" fill="none" stroke="#174A63" stroke-width="10" stroke-linecap="round"/>
+  <path d="M104 168h32" stroke="#5BAED6" stroke-width="8" stroke-linecap="round"/>
+  <path d="M236 78c28 0 44 16 44 36 0 12-6 20-18 24" fill="none" stroke="#174A63" stroke-width="12" stroke-linecap="round"/>
+  <path d="M262 136v118" stroke="#5BAED6" stroke-width="10" stroke-linecap="round"/>
+  <rect x="248" y="248" width="28" height="14" rx="6" fill="#174A63"/>
+  <circle cx="236" cy="78" r="8" fill="#B9DFF2"/>
+</svg>

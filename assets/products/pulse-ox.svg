@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 320" role="img" aria-labelledby="t">
+  <title id="t">Fingertip pulse oximeter</title>
+  <rect width="400" height="320" fill="#F5F8FA"/>
+  <ellipse cx="200" cy="294" rx="100" ry="10" fill="#D7EAF3"/>
+  <rect x="132" y="96" width="136" height="88" rx="18" fill="#174A63"/>
+  <rect x="148" y="112" width="104" height="44" rx="8" fill="#EAF6FC"/>
+  <text x="200" y="142" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#174A63">SpO2 98</text>
+  <path d="M156 184c0 48 24 72 44 72s44-24 44-72" fill="#5BAED6"/>
+  <rect x="176" y="184" width="48" height="16" rx="4" fill="#B9DFF2"/>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80" role="img" aria-labelledby="logoTitle">
+  <title id="logoTitle">Navsanjivani Surgical &amp; Nursing Beuro</title>
+  <defs>
+    <linearGradient id="g" x1="12" y1="8" x2="68" y2="72" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#5BAED6"/>
+      <stop offset="1" stop-color="#174A63"/>
+    </linearGradient>
+  </defs>
+  <circle cx="40" cy="40" r="38" fill="#EAF6FC" stroke="#D7EAF3" stroke-width="2"/>
+  <circle cx="40" cy="40" r="30" fill="url(#g)"/>
+  <path d="M40 16c2.2 6.4 7.2 10.8 12.8 13.2-4.2 1.4-7.6 4.2-9.6 8.2 1.4-8.6-1.4-14.8-3.2-21.4z" fill="#B9DFF2" opacity=".9"/>
+  <path d="M40 16c-2.2 6.4-7.2 10.8-12.8 13.2 4.2 1.4 7.6 4.2 9.6 8.2-1.4-8.6 1.4-14.8 3.2-21.4z" fill="#EAF6FC" opacity=".85"/>
+  <rect x="36.2" y="28" width="7.6" height="28" rx="1.8" fill="#fff"/>
+  <rect x="26" y="37.2" width="28" height="7.6" rx="1.8" fill="#fff"/>
+  <circle cx="40" cy="42" r="4.2" fill="#174A63"/>
+  <circle cx="40" cy="42" r="2" fill="#B9DFF2"/>
+</svg>

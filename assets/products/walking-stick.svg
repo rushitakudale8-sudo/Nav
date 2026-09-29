@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 320" role="img" aria-labelledby="t">
+  <title id="t">Walking stick</title>
+  <rect width="400" height="320" fill="#F5F8FA"/>
+  <ellipse cx="200" cy="294" rx="90" ry="10" fill="#D7EAF3"/>
+  <path d="M168 72c36 0 56 18 56 40 0 14-8 24-22 28" fill="none" stroke="#174A63" stroke-width="14" stroke-linecap="round"/>
+  <path d="M202 138v132" stroke="#5BAED6" stroke-width="12" stroke-linecap="round"/>
+  <rect x="186" y="262" width="32" height="18" rx="8" fill="#174A63"/>
+  <circle cx="168" cy="72" r="10" fill="#B9DFF2"/>
+</svg>

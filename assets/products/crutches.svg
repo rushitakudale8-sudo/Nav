@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 320" role="img" aria-labelledby="t">
+  <title id="t">Underarm crutches</title>
+  <rect width="400" height="320" fill="#F5F8FA"/>
+  <ellipse cx="200" cy="294" rx="110" ry="10" fill="#D7EAF3"/>
+  <path d="M128 78c-22 8-32 28-32 46v28l52 118" fill="none" stroke="#174A63" stroke-width="10" stroke-linecap="round"/>
+  <path d="M272 78c22 8 32 28 32 46v28l-52 118" fill="none" stroke="#174A63" stroke-width="10" stroke-linecap="round"/>
+  <path d="M96 148h64M240 148h64" stroke="#5BAED6" stroke-width="10" stroke-linecap="round"/>
+  <rect x="96" y="66" width="64" height="16" rx="8" fill="#B9DFF2"/>
+  <rect x="240" y="66" width="64" height="16" rx="8" fill="#B9DFF2"/>
+  <rect x="138" y="262" width="24" height="16" rx="6" fill="#174A63"/>
+  <rect x="238" y="262" width="24" height="16" rx="6" fill="#174A63"/>
+</svg>

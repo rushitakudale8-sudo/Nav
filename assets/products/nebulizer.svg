@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 320" role="img" aria-labelledby="t">
+  <title id="t">Compressor nebulizer</title>
+  <rect width="400" height="320" fill="#F5F8FA"/>
+  <ellipse cx="200" cy="294" rx="110" ry="10" fill="#D7EAF3"/>
+  <rect x="118" y="128" width="164" height="118" rx="22" fill="#174A63"/>
+  <rect x="132" y="142" width="136" height="72" rx="14" fill="#EAF6FC"/>
+  <circle cx="200" cy="178" r="18" fill="#5BAED6"/>
+  <circle cx="200" cy="178" r="8" fill="#fff"/>
+  <rect x="148" y="226" width="28" height="8" rx="4" fill="#B9DFF2"/>
+  <rect x="224" y="226" width="28" height="8" rx="4" fill="#5BAED6"/>
+  <path d="M200 128c0-28 22-46 46-46" fill="none" stroke="#5BAED6" stroke-width="8" stroke-linecap="round"/>
+  <ellipse cx="258" cy="74" rx="22" ry="16" fill="#B9DFF2" stroke="#174A63" stroke-width="4"/>
+  <path d="M246 74h-18" stroke="#174A63" stroke-width="4"/>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 320" role="img" aria-labelledby="t">
+  <title id="t">Adult diapers</title>
+  <rect width="400" height="320" fill="#F5F8FA"/>
+  <ellipse cx="200" cy="294" rx="110" ry="10" fill="#D7EAF3"/>
+  <rect x="118" y="86" width="164" height="180" rx="16" fill="#174A63"/>
+  <rect x="132" y="102" width="136" height="148" rx="10" fill="#EAF6FC"/>
+  <path d="M156 150c20 28 68 28 88 0v58c-20 24-68 24-88 0z" fill="#B9DFF2"/>
+  <rect x="148" y="118" width="104" height="16" rx="6" fill="#5BAED6"/>
+  <text x="200" y="250" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#174A63">ADULT CARE</text>
+</svg>

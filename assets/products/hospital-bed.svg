@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 320" role="img" aria-labelledby="t">
+  <title id="t">Hospital bed</title>
+  <rect width="400" height="320" fill="#F5F8FA"/>
+  <ellipse cx="200" cy="294" rx="130" ry="10" fill="#D7EAF3"/>
+  <rect x="62" y="168" width="276" height="22" rx="6" fill="#174A63"/>
+  <rect x="78" y="128" width="244" height="44" rx="8" fill="#EAF6FC" stroke="#5BAED6" stroke-width="4"/>
+  <rect x="96" y="108" width="72" height="28" rx="8" fill="#B9DFF2"/>
+  <rect x="70" y="188" width="12" height="72" rx="4" fill="#174A63"/>
+  <rect x="318" y="188" width="12" height="72" rx="4" fill="#174A63"/>
+  <rect x="54" y="112" width="18" height="78" rx="4" fill="#5BAED6"/>
+  <rect x="328" y="144" width="18" height="46" rx="4" fill="#5BAED6"/>
+  <circle cx="76" cy="268" r="10" fill="#5BAED6"/>
+  <circle cx="324" cy="268" r="10" fill="#5BAED6"/>
+  <path d="M86 148h28M86 160h28M286 160h28M286 172h28" stroke="#174A63" stroke-width="4" stroke-linecap="round"/>
+</svg>

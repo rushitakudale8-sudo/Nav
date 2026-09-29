@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 320" role="img" aria-labelledby="t">
+  <title id="t">Walking frame</title>
+  <rect width="400" height="320" fill="#F5F8FA"/>
+  <ellipse cx="200" cy="292" rx="118" ry="10" fill="#D7EAF3"/>
+  <path d="M86 268V118c0-14 10-24 24-24h180c14 0 24 10 24 24v150" fill="none" stroke="#174A63" stroke-width="10" stroke-linecap="round"/>
+  <path d="M110 168h180" stroke="#5BAED6" stroke-width="10" stroke-linecap="round"/>
+  <path d="M110 214h180" stroke="#B9DFF2" stroke-width="8" stroke-linecap="round"/>
+  <rect x="78" y="86" width="36" height="16" rx="8" fill="#174A63"/>
+  <rect x="286" y="86" width="36" height="16" rx="8" fill="#174A63"/>
+  <circle cx="96" cy="274" r="10" fill="#5BAED6"/>
+  <circle cx="304" cy="274" r="10" fill="#5BAED6"/>
+  <circle cx="132" cy="274" r="8" fill="#174A63"/>
+  <circle cx="268" cy="274" r="8" fill="#174A63"/>
+</svg>
